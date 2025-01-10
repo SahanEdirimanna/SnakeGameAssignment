@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "author": "Lahiru_200341A",
+    "author": "Sahan_Edirimanna",
     "editor": "wokwi",
     "parts": [
       { "type": "wokwi-arduino-uno", "id": "uno", "top": 335.4, "left": -11.69, "attrs": {} },
